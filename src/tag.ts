@@ -4,7 +4,5 @@ export default class Tag {
     return this._tag;
   }
 
-  setTag(newTag: string): string {
-    return (this._tag = newTag);
-  }
+  
 }
